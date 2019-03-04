@@ -1,5 +1,25 @@
 .crystal-image {
-    width: 300px;
-    height: 300px;
+    width: 200px;
+    height: 200px;
+    margin-left: 65px;
   }
+
+ .jumbotron {
+background: white;
+ } 
+
+.container {
+    background: white;
+    font-family: 'Orbitron', sans-serif;
+    font-weight: bold;
+}
+h1 {
+    font-size: 200px;
+    font-family: 'Orbitron', sans-serif;
+}
+
+.lead {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
 
