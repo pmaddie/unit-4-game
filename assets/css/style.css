@@ -1,4 +1,4 @@
-.crystal-image {
+.crystal{
     width: 200px;
     height: 200px;
     margin-left: 65px;
@@ -23,3 +23,7 @@ h1 {
     font-size: 18px;
 }
 
+footer {
+margin-top: 25%;
+
+}
